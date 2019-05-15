@@ -1,6 +1,6 @@
 
 <html>
-<body style="background-color:pink;">
+<body style="background-color:skyblue;">
 
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
